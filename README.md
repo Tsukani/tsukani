@@ -3,7 +3,7 @@
 <p float="left">
 <img src="logo.png" width='350' />
 <br>
-Heya! I'm Chris <img src='tudou.gif' height='16'>
+Heya! I'm Chris <img src='tudou.gif' height='16' width='16'>
 <br>
 <br>
 A 22-year-old Copenhagen-based hobbyist full-<br>
