@@ -1,7 +1,7 @@
 <p float="left">
 <img src='image.jpg' height='333' align="left">
 <p float="left">
-<img src="logo.png" width='350' />
+<img src="logo.png" width='300' />
 <br>
 Heya! I'm Chris <img src='tudou.gif' height='16' width='16'>
 <br>
