@@ -6,8 +6,8 @@
 Heya! I'm Chris <img src='tudou.gif' height='16' width='16'>
 <br>
 <br>
-A 23-year-old Copenhagen-based hobbyist full-<br>
-stack creative web developer with a passion for<br>
+A 23-year-old Copenhagen-based full-stack<br>
+creative web developer with a passion for<br>
 unique design and a love for learning new things.<br>
 Specializing in React, TypeScript, and Node.js
 <br>
